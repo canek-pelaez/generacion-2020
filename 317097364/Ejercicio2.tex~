@@ -1,3 +1,4 @@
+\includegraphics {./Pala.jpg}
 \documentclass{article}
 
 \usepackage{amsmath,amssymb,latexsym} %En algunos casos es necesario
